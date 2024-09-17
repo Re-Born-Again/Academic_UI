@@ -1,7 +1,7 @@
 
 # Academic UI
 
-This project is a **Academic UI**, focusing on recreating the user interface of a platform designed for students. The goal of this project is to mirror the visual design and layout, ensuring responsiveness and usability.
+This project is a **Academic UI**, focusing on recreating the user interface of a platform designed for students. The goal of this project is to enhance the visual design and layout, ensuring responsiveness and usability.
 
 ## Features
 
