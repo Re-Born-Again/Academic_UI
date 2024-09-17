@@ -1,7 +1,7 @@
 
-# Studentverse UI Clone
+# Academic UI
 
-This project is a **clone of the Studentverse UI**, focusing on recreating the user interface of a platform designed for students. The goal of this project is to mirror the visual design and layout, ensuring responsiveness and usability.
+This project is a **Academic UI**, focusing on recreating the user interface of a platform designed for students. The goal of this project is to mirror the visual design and layout, ensuring responsiveness and usability.
 
 ## Features
 
@@ -10,7 +10,7 @@ This project is a **clone of the Studentverse UI**, focusing on recreating the u
 - Profile Management
 - News Feed or Updates Section
 - Search Functionality for Resources or Students
-- Optimized for Mobile and Desktop
+- Optimized for Mobile
 
 ## Tech Stack
 
