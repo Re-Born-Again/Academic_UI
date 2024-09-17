@@ -5,14 +5,29 @@ Welcome to the Academic UI app, a feature-rich platform designed to display esse
 
 ## Features
 
-- Modern UI with Responsive Design
-- Dashboard for Students
-- Profile Management
-- News Feed or Updates Section
-- Search Functionality for Resources or Students
-- Optimized for Mobile
+-View Time Table (Built):
+  - Tab-based navigation to view subjects scheduled for each day of the week. Each day displays scrollable containers with detailed subject information such as:
+      - Subject Name
+      - Faculty Name
+      - Time
+   
+- View Attendance (Built):
+  - A breakdown of attendance records per subject, showing:
+      - Subject Name
+      - Subject Code
+      - Total Hours
+      - Present Hours
+      - Absent Hours
+   
+- Other Upcoming Features (Planned):
+    - View Internal Marks
+    - View CGPA History
+    - View Course Details
+    - View Fee Payments
+    - View Exam Schedule
+    - View Fee Due
 
-## Tech Stack
+##  Tech Stack
 
-- **Frontend:**
-  - Flutter
+  - Flutter: A modern framework for building cross-platform mobile apps.
+  - Dart: Programming language used for Flutter app development.
