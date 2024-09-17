@@ -33,9 +33,9 @@ Welcome to the Academic UI app, a feature-rich platform designed to display esse
   - Dart: Programming language used for Flutter app development.
 
 ## Screens
+<img src="https://github.com/user-attachments/assets/6f8d835b-ba78-4526-b0aa-70cd101ab33e" alt="Login Page" width="300"/>
 
+<img src="https://github.com/user-attachments/assets/25bb917f-7eef-4b43-b032-7c32fb0016a3" alt="Login Page" width="300"/>
 
-![academic_dashboard](https://github.com/user-attachments/assets/6f8d835b-ba78-4526-b0aa-70cd101ab33e)
-![time_table](https://github.com/user-attachments/assets/25bb917f-7eef-4b43-b032-7c32fb0016a3)
-![attendance](https://github.com/user-attachments/assets/ab6c08e7-9ad5-4d9c-90a1-209951f7fd55)
+<img src="https://github.com/user-attachments/assets/ab6c08e7-9ad5-4d9c-90a1-209951f7fd55" alt="Login Page" width="300"/>
 
