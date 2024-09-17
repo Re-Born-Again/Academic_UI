@@ -1,7 +1,7 @@
 
 # Academic UI
 
-This project is a **Academic UI**, focusing on recreating the user interface of a platform designed for students. The goal of this project is to enhance the visual design and layout, ensuring responsiveness and usability.
+Welcome to the Academic UI app, a feature-rich platform designed to display essential academic details for students. The app aims to provide a centralized location for students to access information such as attendance, timetables, grades, and fee details.
 
 ## Features
 
